@@ -142,7 +142,7 @@ The notebook can retrieve the token to authenticate ngrok and create a tunnel fo
 
 ### 8.5 OTP Email
 
-![OTP Email](screenshots/OTP_Email.png)
+![OTP Email](screenshots/OTP_email.png)
 
 ### 8.6 User Dashboard
 
