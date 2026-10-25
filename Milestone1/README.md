@@ -130,7 +130,7 @@ The notebook can retrieve the token to authenticate ngrok and create a tunnel fo
 
 ### 8.2 Signup Page
 
-![Signup Page](screenshots/signup[.png)
+![Signup Page](screenshots/signup.png)
 
 ### 8.3 Forgot Password — Security Question
 
