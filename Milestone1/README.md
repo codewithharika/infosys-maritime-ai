@@ -126,11 +126,11 @@ The notebook can retrieve the token to authenticate ngrok and create a tunnel fo
 
 ### 8.1 Login Page
 
-![Login Page](screenshots/login_dashboard.png)
+![Login Page](screenshots/login.png)
 
 ### 8.2 Signup Page
 
-![Signup Page](screenshots/acc_creation.png)
+![Signup Page](screenshots/signup[.png)
 
 ### 8.3 Forgot Password — Security Question
 
@@ -142,11 +142,11 @@ The notebook can retrieve the token to authenticate ngrok and create a tunnel fo
 
 ### 8.5 OTP Email
 
-![OTP Email](screenshots/OTP_email.png)
+![OTP Email](screenshots/OTP_Email.png)
 
-### 8.6 Administrator Dashboard
+### 8.6 User Dashboard
 
-![Administrator Dashboard](screenshots/dashboard.png)
+![Administrator Dashboard](screenshots/User_dashboard.png)
 
 ## 9. Security Considerations
 
