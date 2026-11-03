@@ -164,6 +164,6 @@ Questions pass through `_normalise_question()` to resolve misspellings and conve
 
 ---
 ### Collaborators
-* Harika Gollapelli
+* Gowri Alekya peddimsetti
 * Smruti Ranjan Das
 * Sneha Tripathi
