@@ -170,7 +170,7 @@ The project is developed collaboratively, with each team member contributing to 
 | S.No | Collaborator Name        | Role / Responsibility                 |
 | :--: | ------------------------ | ------------------------------------- |
 |   1  | Gollapelli Harika        | RBAC Implementation                   |
-|   2  | Gowri Alekya Peddinsetti | UI Development & Login Authentication |
+|   2  | Gowri Alekya Peddimsetti | UI Development & Login Authentication |
 |   3  | Smruti Ranjan Das        | Dashboard Development                 |
 |   4  | Sneha Tripathi           | AI Copilot Development                |
 
