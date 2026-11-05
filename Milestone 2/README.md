@@ -163,7 +163,14 @@ Questions pass through `_normalise_question()` to resolve misspellings and conve
 
 
 ---
-### Collaborators
-* Gowri Alekya peddimsetti
-* Smruti Ranjan Das
-* Sneha Tripathi
+## 👥 Project Collaborators
+
+The project is developed collaboratively, with each team member contributing to different modules and functionalities.
+
+| S.No | Collaborator Name        | Role / Responsibility                 |
+| :--: | ------------------------ | ------------------------------------- |
+|   1  | Gollapelli Harika        | RBAC Implementation                   |
+|   2  | Gowri Alekya Peddinsetti | UI Development & Login Authentication |
+|   3  | Smruti Ranjan Das        | Dashboard Development                 |
+|   4  | Sneha Tripathi           | AI Copilot Development                |
+
