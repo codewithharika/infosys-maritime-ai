@@ -1,5 +1,5 @@
 # FreightQuote AI — Milestone 3: Final Integrated Platform
-**Infosys Springboard Internship 7.0 · Batch 4**
+**Infosys Springboard Internship 7.0 · Batch 3**
 *RAG Knowledge Base · AI Copilot (SQL + RAG) · Teach Copilot · Agent Simulators · Milestone 2 RBAC & Admin · Google Colab (T4 GPU)*
 
 ---
